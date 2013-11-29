@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Sirena</id>
+    <description>Sirena GDS API SDK.</description>
+    <authors>Shadeglare</authors>
+    <version>1.0.0</version>
+  </metadata>
+  <files>
+    <file src="bin\release\Sirena.xml" target="lib\net45\" />
+    <file src="bin\release\Sirena.dll" target="lib\net45\" />
+  </files>
+</package>
